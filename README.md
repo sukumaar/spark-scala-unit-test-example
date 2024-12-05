@@ -1,6 +1,6 @@
 ## Apache Spark Unit Testing Strategies
 Related tutorial can be found on this link:
-[https://dev.to/sukumaar/apache-spark-unit-testing-strategies-451j](https://dev.to/sukumaar/apache-spark-unit-testing-strategies-451j)
+[https://rovingdev.com/p/apache-spark-unit-testing-strategies](https://rovingdev.com/p/apache-spark-unit-testing-strategies)
 
 
 ### How to run:
